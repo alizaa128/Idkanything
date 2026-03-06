@@ -1,6 +1,6 @@
 'use strict';
 
-const apiKey = 'YOUR_API_KEY'; // Replace 'YOUR_API_KEY' with a valid API key
+const apiKey = 'c3aa03fb92a8c010d13cc014d50b2a96'; // Replace 'c3aa03fb92a8c010d13cc014d50b2a96' with a valid API key
 const form = document.getElementById('search-form');
 const searchInput = document.getElementById('search-input');
 const weatherContainer = document.getElementById('weather-container');
